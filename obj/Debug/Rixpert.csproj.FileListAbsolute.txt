@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\Rixpert\Rixpert\bin\Debug\Rixpert.exe.config
+C:\Users\PC\Documents\Rixpert\Rixpert\bin\Debug\Rixpert.exe
+C:\Users\PC\Documents\Rixpert\Rixpert\bin\Debug\Rixpert.pdb
+C:\Users\PC\Documents\Rixpert\Rixpert\obj\Debug\Rixpert.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Rixpert\Rixpert\obj\Debug\Rixpert.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Rixpert\Rixpert\obj\Debug\Rixpert.Form1.resources
+C:\Users\PC\Documents\Rixpert\Rixpert\obj\Debug\Rixpert.Properties.Resources.resources
+C:\Users\PC\Documents\Rixpert\Rixpert\obj\Debug\Rixpert.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Rixpert\Rixpert\obj\Debug\Rixpert.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Rixpert\Rixpert\obj\Debug\Rixpert.exe
+C:\Users\PC\Documents\Rixpert\Rixpert\obj\Debug\Rixpert.pdb
+C:\Users\PC\Documents\Rixpert\Rixpert\bin\Debug\LiteDB.dll
+C:\Users\PC\Documents\Rixpert\Rixpert\bin\Debug\LiteDB.xml
+C:\Users\PC\Documents\Rixpert\Rixpert\obj\Debug\Rixpert.csproj.CopyComplete
